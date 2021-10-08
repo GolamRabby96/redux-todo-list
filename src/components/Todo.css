@@ -1,0 +1,37 @@
+body{
+    padding-top: 100px;
+    text-align: center;
+}
+.addItems{
+    padding-top:20px;
+}
+.addItems input{
+    width: 320px;
+    padding: 5px;
+}
+
+
+.clickButton{
+    background-color: #dc3545;
+    border-color: #dc3545;
+    margin-top:12px;
+}
+.mapsection{
+    display: flex;
+    vertical-align: center;
+    justify-content: center;
+}
+
+.mapP{
+    width:320px;
+    background-color: white;
+    padding: 0;
+    height:40px;
+    align-items: left;
+
+}
+.clickButton1{
+    background-color: #c3dc35;
+    border-color: #dc3545;
+    margin-left: 20px;
+}
